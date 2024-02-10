@@ -1,1 +1,2 @@
 # FaceTrackingUsingCV
+A OpenCV project in combination with Arduino to track a persons face movement (panning) but can be expanded to also the y coordinates if additonal servos are added. The project gives me a better understanding at using opencv and arduino serial communication and highlights the possibility to expand this project into more complex systems such as a fire detection and removal system.
